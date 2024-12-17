@@ -1,0 +1,58 @@
+[
+ 
+  {
+    "name": "Eduflex",
+    "desc": "A comprehensive learning management platform built using the MERN stack. Eduflex allows users to manage courses, track progress, and interact seamlessly. ",
+    "image": "eduflex",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jadhavswaraj/EduFlex",
+      "code": "https://github.com/jadhavswaraj/EduFlex"
+    }
+  },
+  {
+    "name": "ChronoChat",
+    "desc": "A real-time chat application built using the MERN stack with Socket.IO for seamless messaging and group chats.",
+    "image": "chronochat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jadhavswaraj/Chatbot",
+      "code": "https://github.com/jadhavswaraj/Chatbot"
+    }
+  },
+
+  {
+    "name": "Food Delivery",
+    "desc": "A full-stack food delivery web application built using the MERN stack. Features include browsing menus, placing orders,  for seamless food ordering.",
+    "image": "fooddelivery",
+    "category": "mern",
+    "links": {
+      "view": "https://fooddiliveryyyy.vercel.app/",
+      "code": "https://github.com/jadhavswaraj/Food_Dilevery"
+    }
+  }
+  ,
+  {
+    "name": "FitClub",
+    "desc": "A responsive fitness website designed to help users track workouts and explore fitness plans. ",
+    "image": "gym",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jadhavswaraj/FitClub-Starter",
+      "code": "https://github.com/jadhavswaraj/FitClub-Starter"
+    }
+  }
+  ,
+  {
+    "name": "Ecomzy",
+    "desc": "A simple shopping app that provides a seamless e-commerce experience, featuring product listings and cart functionalities.",
+    "image": "ecomzy",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jadhavswaraj/Ecomzy",
+      "code": "https://github.com/jadhavswaraj/Ecomzy"
+    }
+  }
+  
+  
+]
